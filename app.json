@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "entryPoint": "./index.ts",
+    "name": "WanderLust",
+    "slug": "wanderlust",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#007BFF"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#007BFF"
+      },
+      "newArchEnabled": false,
+      "config": {
+        "googleMaps": {
+          "apiKey": "INSERT YOUR API KEY"
+        }
+      },
+      "package": "com.danielebrcoding.wanderlust"
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9e735eea-447d-490c-b7e7-df3082536b96"
+      }
+    }
+  }
+}
