@@ -1,6 +1,6 @@
 # 🌍 Wanderlust - A Never-Ending Journey
 
-![Wanderlust Logo](assets/logo.png) *(Placeholder for the project logo)*
+![Wanderlust Logo](assets/images/adaptive-icon.png) 
 
 ## 🍃 Overview
 **Wanderlust** is a gamified application designed for outdoor exploration enthusiasts. Through a combination of technology and gameplay, users can discover new routes, find hidden landmarks, and contribute to the expansion of the global map.
