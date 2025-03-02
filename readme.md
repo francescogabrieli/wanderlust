@@ -32,7 +32,7 @@ Follow these simple steps to start using Wanderlust:
 ### 📋 Usage Guide
 1️⃣ **Clone the repository**
 ```bash
-git clone https://github.com/your-user/wanderlust.git
+git clone https://github.com/francescogabrieli/wanderlust.git
 cd wanderlust
 ```
 
